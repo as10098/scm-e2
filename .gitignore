@@ -1,5 +1,7 @@
+*.log
+.DS_Store
+.Trash/
+Pictures/
 error.log
 node_modules/
 .DS_Store
-
-error.log
